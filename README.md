@@ -15,3 +15,7 @@
 * 固定文法的输入，没有对文法文件读写的操作
 * 无法消除文法二义性
 * 无法消除左递归（但可以消除直接左递归）
+
+## 截图
+
+![界面截图](https://github.com/Monoscript/GrammarAnalysis/blob/master/img.png)
